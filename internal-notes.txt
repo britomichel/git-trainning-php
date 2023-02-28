@@ -1,0 +1,1 @@
+Este arquivo contém algumas notas institucionais que eu vou incluir no .bitignore

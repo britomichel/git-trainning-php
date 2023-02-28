@@ -1,0 +1,5 @@
+# ignore ALL internal*.txt files
+internal*.txt
+
+# ignore ALL files in the temp/ diretory
+temp/

@@ -1,0 +1,1 @@
+Este arquivo contém algumas anotações TEMPORÁRIAS que eu vou incluir no .bitignore
